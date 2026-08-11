@@ -8,7 +8,7 @@ export function CrmVendors() {
       <CrmPageHeader
         eyebrow="CRM"
         title="Vendors"
-        subtitle="Verified service partners assigned internally by Layzox — never chosen by customers."
+        subtitle="Verified service partners assigned internally by Layzox   never chosen by customers."
       />
 
       <CrmTable

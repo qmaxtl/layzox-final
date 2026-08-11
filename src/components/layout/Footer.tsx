@@ -76,7 +76,7 @@ export function Footer() {
             <Logo dark />
             <p className="mt-5 text-sm leading-relaxed text-slate-400">
               One requirement. We handle the rest. Layzox is a managed B2B services procurement
-              platform — you submit a requirement once, and we coordinate sourcing, quotations and
+              platform   you submit a requirement once, and we coordinate sourcing, quotations and
               delivery through a single accountable process.
             </p>
             <div className="mt-6 flex items-center gap-2.5">

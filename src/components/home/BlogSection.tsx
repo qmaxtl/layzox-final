@@ -23,7 +23,7 @@ export function BlogSection() {
                 <span className="text-gradient">procurement</span>
               </>
             }
-            subtitle="Practical playbooks on procurement, operations and vendor management — written for business leaders."
+            subtitle="Practical playbooks on procurement, operations and vendor management   written for business leaders."
           />
           <Reveal delay={0.1}>
             <Link

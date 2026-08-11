@@ -22,7 +22,7 @@ export function NotFound() {
             This page got lost in procurement
           </h1>
           <p className="mt-6 max-w-md text-base leading-relaxed text-ink-500 dark:text-ink-400">
-            The page you're looking for doesn't exist. But your next service requirement does —
+            The page you're looking for doesn't exist. But your next service requirement does  
             let's get that sorted.
           </p>
           <div className="mt-9 flex flex-wrap items-center justify-center gap-4">

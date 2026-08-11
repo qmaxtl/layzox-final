@@ -70,7 +70,7 @@ export const services: Service[] = [
     category: "Facility & Maintenance",
     icon: Bug,
     keywords: "termite, rodent, cockroach, fumigation",
-    description: "Commercial-grade pest management for termites, rodents, cockroaches and more — with scheduled treatments and hygiene audits.",
+    description: "Commercial-grade pest management for termites, rodents, cockroaches and more   with scheduled treatments and hygiene audits.",
     points: ["Licensed fumigation", "Scheduled IPM plans", "Post-treatment reports"],
   },
   {
@@ -79,7 +79,7 @@ export const services: Service[] = [
     category: "Facility & Maintenance",
     icon: Sparkles,
     keywords: "office cleaning, staff, janitorial",
-    description: "Trained, background-verified housekeeping staff for offices, hotels, hospitals and retail — supervised and audited daily.",
+    description: "Trained, background-verified housekeeping staff for offices, hotels, hospitals and retail   supervised and audited daily.",
     points: ["Verified staff", "Daily supervision", "Quality checklists"],
   },
   {
@@ -97,7 +97,7 @@ export const services: Service[] = [
     category: "Facility & Maintenance",
     icon: Building2,
     keywords: "IFM, integrated facilities, hard services, soft services",
-    description: "End-to-end integrated facility management — soft services, hard services and compliance under one accountable partner.",
+    description: "End-to-end integrated facility management   soft services, hard services and compliance under one accountable partner.",
     points: ["Single accountable partner", "Helpdesk support", "Compliance audits"],
   },
   {
@@ -205,7 +205,7 @@ export const services: Service[] = [
     category: "Construction & Interiors",
     icon: Sofa,
     keywords: "office interiors, design, fit-out, workspace",
-    description: "End-to-end interior design and fit-out for offices, retail and hospitality — from concept to handover.",
+    description: "End-to-end interior design and fit-out for offices, retail and hospitality   from concept to handover.",
     points: ["Concept to handover", "3D visualisation", "Budget controlled"],
   },
   {
@@ -277,7 +277,7 @@ export const services: Service[] = [
     category: "Technology & Digital",
     icon: Globe,
     keywords: "websites, SEO, web apps, CMS",
-    description: "High-performance websites and web applications — designed, built and optimised for conversions and SEO.",
+    description: "High-performance websites and web applications   designed, built and optimised for conversions and SEO.",
     points: ["Performance first", "SEO ready", "CMS powered"],
   },
   {
@@ -295,7 +295,7 @@ export const services: Service[] = [
     category: "Creative & Marketing",
     icon: PenTool,
     keywords: "identity, logo, guidelines, brand",
-    description: "Strategic branding — identity systems, messaging and guidelines that make your business unmistakable.",
+    description: "Strategic branding   identity systems, messaging and guidelines that make your business unmistakable.",
     points: ["Identity systems", "Brand strategy", "Guidelines"],
   },
   {
@@ -322,7 +322,7 @@ export const services: Service[] = [
     category: "Creative & Marketing",
     icon: Video,
     keywords: "video, corporate films, reels, edit",
-    description: "Corporate films, brand films, product videos and social reels — scripted, shot and edited in-house.",
+    description: "Corporate films, brand films, product videos and social reels   scripted, shot and edited in-house.",
     points: ["Full production", "Script to edit", "Social cutdowns"],
   },
   {
@@ -340,7 +340,7 @@ export const services: Service[] = [
     category: "Professional Services",
     icon: Scale,
     keywords: "lawyer, contracts, compliance, advisory",
-    description: "Business legal support — contracts, agreements, compliance and advisory from vetted legal partners.",
+    description: "Business legal support   contracts, agreements, compliance and advisory from vetted legal partners.",
     points: ["Contracts & agreements", "Compliance advice", "Confidential handling"],
   },
   {
@@ -367,7 +367,7 @@ export const services: Service[] = [
     category: "Professional Services",
     icon: UserCog,
     keywords: "HR, payroll, compliance, policies",
-    description: "Outsourced HR support — policies, payroll, statutory compliance and employee lifecycle management.",
+    description: "Outsourced HR support   policies, payroll, statutory compliance and employee lifecycle management.",
     points: ["Payroll processing", "Statutory compliance", "Policy frameworks"],
   },
   {
@@ -376,7 +376,7 @@ export const services: Service[] = [
     category: "Professional Services",
     icon: UserPlus,
     keywords: "hiring, staffing, talent, executive search",
-    description: "End-to-end hiring — from job profiling and sourcing to offer and onboarding for every role type.",
+    description: "End-to-end hiring   from job profiling and sourcing to offer and onboarding for every role type.",
     points: ["Screened profiles", "Role profiling", "Onboarding support"],
   },
 ];

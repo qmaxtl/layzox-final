@@ -82,7 +82,7 @@ export function ServicesSection() {
               <span className="text-gradient">managed end to end</span>
             </>
           }
-          subtitle="From pest control to facility management, software to security — services across 8 categories, coordinated through one accountable partner."
+          subtitle="From pest control to facility management, software to security   services across 8 categories, coordinated through one accountable partner."
         />
 
         {/* Category filter */}
@@ -132,7 +132,7 @@ export function ServicesSection() {
             >
               Post your requirement
             </Link>{" "}
-            — we source and manage it for you.
+              we source and manage it for you.
           </p>
         </Reveal>
       </Container>

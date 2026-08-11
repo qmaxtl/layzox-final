@@ -7,7 +7,7 @@ export function CrmCustomers() {
       <CrmPageHeader
         eyebrow="CRM"
         title="Customers"
-        subtitle="Businesses served by Layzox — orders, spend and engagement at a glance."
+        subtitle="Businesses served by Layzox   orders, spend and engagement at a glance."
       />
 
       <CrmTable headers={["Customer", "Company", "Industry", "City", "Orders", "Total Spend", "Since"]}>

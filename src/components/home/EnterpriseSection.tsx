@@ -17,7 +17,7 @@ export function EnterpriseSection() {
               <span className="text-gradient">on one dashboard</span>
             </>
           }
-          subtitle="For large organisations and Layzox's own operations — managing vendors, areas, pricing, orders and compliance from a single admin console."
+          subtitle="For large organisations and Layzox's own operations   managing vendors, areas, pricing, orders and compliance from a single admin console."
         />
 
         <Stagger className="mt-16 grid gap-4 sm:grid-cols-2 lg:grid-cols-4" gap={0.05}>

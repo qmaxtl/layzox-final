@@ -47,7 +47,7 @@ export function HomeServices() {
               <span className="text-gradient">fully managed</span>
             </>
           }
-          subtitle="From pest control to facility management — every service coordinated and documented by Layzox."
+          subtitle="From pest control to facility management   every service coordinated and documented by Layzox."
         />
 
         <Stagger className="mt-12 grid gap-3 sm:grid-cols-2 lg:grid-cols-3" gap={0.05}>

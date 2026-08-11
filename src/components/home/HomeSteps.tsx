@@ -6,7 +6,7 @@ import { SectionHeading } from "@/components/ui/SectionHeading";
 import { steps } from "@/lib/data/howItWorks";
 
 const condensed = [
-  { index: 0, label: "Submit your requirement", copy: "Tell us what you need — it takes minutes." },
+  { index: 0, label: "Submit your requirement", copy: "Tell us what you need   it takes minutes." },
   { index: 3, label: "Approve the quotation", copy: "An official quotation, structured and shared for your review." },
   { index: 4, label: "The partner executes", copy: "The selected service partner delivers to the agreed scope." },
   { index: 5, label: "Coordinated to completion", copy: "We help coordinate follow-up, documentation and completion." },

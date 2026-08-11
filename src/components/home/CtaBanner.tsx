@@ -15,7 +15,7 @@ export function CtaBanner({
       Ready to simplify your <span className="text-gradient-blue">business services</span>?
     </>
   ),
-  subtitle = "Post one requirement and Layzox coordinates the rest — sourcing, quotations and delivery through one accountable process.",
+  subtitle = "Post one requirement and Layzox coordinates the rest   sourcing, quotations and delivery through one accountable process.",
 }: CtaBannerProps) {
   return (
     <section className="relative py-24 sm:py-28">

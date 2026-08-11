@@ -70,7 +70,7 @@ export function Header() {
         )}
       >
         <div className="mx-auto flex h-[4.5rem] w-full max-w-[90rem] items-center justify-between gap-4 px-5 sm:px-8">
-          <Link to="/" aria-label="Layzox — Home" className="shrink-0">
+          <Link to="/" aria-label="Layzox   Home" className="shrink-0">
             <Logo size={42} className="[&>span]:text-2xl" />
           </Link>
 

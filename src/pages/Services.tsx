@@ -29,7 +29,7 @@ export function Services() {
             <span className="text-gradient">one accountable partner</span>
           </>
         }
-        subtitle="Every service is managed by Layzox — verified partners, official quotations, quality checks and GST invoices."
+        subtitle="Every service is managed by Layzox   verified partners, official quotations, quality checks and GST invoices."
       />
 
       <Container className="pb-24">
@@ -42,7 +42,7 @@ export function Services() {
                   <div className="flex flex-col justify-between gap-2 border-b border-ink-200/70 pb-4 sm:flex-row sm:items-end dark:border-ink-800">
                     <div>
                       <span className="font-mono text-[0.65rem] uppercase tracking-[0.22em] text-brand-600 dark:text-accent-400">
-                        {String(ci + 1).padStart(2, "0")} — {cat.name}
+                        {String(ci + 1).padStart(2, "0")}   {cat.name}
                       </span>
                       <h2 className="mt-2 font-display text-2xl font-semibold tracking-tight text-ink-900 sm:text-3xl dark:text-white">
                         {cat.name}

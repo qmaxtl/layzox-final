@@ -9,7 +9,7 @@ export const faqs: Faq[] = [
     category: "basics",
     question: "What exactly does Layzox do?",
     answer:
-      "Layzox is a managed B2B services procurement platform. You submit a single requirement and Layzox coordinates the suitable service partner, prepares a quotation, schedules and supervises the work, checks quality, processes payment and issues your GST invoice. You deal only with Layzox — not with individual partners.",
+      "Layzox is a managed B2B services procurement platform. You submit a single requirement and Layzox coordinates the suitable service partner, prepares a quotation, schedules and supervises the work, checks quality, processes payment and issues your GST invoice. You deal only with Layzox   not with individual partners.",
   },
   {
     category: "basics",
@@ -33,7 +33,7 @@ export const faqs: Faq[] = [
     category: "procurement",
     question: "Do I get to choose my partner?",
     answer:
-      "No — by design. Layzox selects the most suitable service partner based on location, capability, availability, experience and track record. This keeps the process consistent, accountable and coordinated through a single point of contact.",
+      "No   by design. Layzox selects the most suitable service partner based on location, capability, availability, experience and track record. This keeps the process consistent, accountable and coordinated through a single point of contact.",
   },
   {
     category: "procurement",
@@ -63,7 +63,7 @@ export const faqs: Faq[] = [
     category: "vendors",
     question: "How do I become a Layzox partner?",
     answer:
-      "Apply through the Become a Partner page. Your business is reviewed against our verification standards. Approved partners receive work through Layzox — they do not compete for customer leads.",
+      "Apply through the Become a Partner page. Your business is reviewed against our verification standards. Approved partners receive work through Layzox   they do not compete for customer leads.",
   },
   {
     category: "billing",

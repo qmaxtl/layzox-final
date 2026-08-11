@@ -29,7 +29,7 @@ export function Resources() {
             <span className="text-gradient">business smarter</span>
           </>
         }
-        subtitle="Practical playbooks on procurement, operations and vendor management — written by the Layzox team for business leaders."
+        subtitle="Practical playbooks on procurement, operations and vendor management   written by the Layzox team for business leaders."
       />
 
       <Container className="pb-24">

@@ -76,7 +76,7 @@ export function BecomeAPartner() {
                 Assigned on fit, not marketing
               </h2>
               <p className="mt-4 max-w-lg text-sm leading-relaxed text-ink-500 dark:text-ink-400">
-                Layzox matches customer requirements to suitable partners using documented criteria —
+                Layzox matches customer requirements to suitable partners using documented criteria  
                 area, capability, availability, experience and track record.
               </p>
             </Reveal>

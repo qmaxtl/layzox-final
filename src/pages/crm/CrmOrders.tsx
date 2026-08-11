@@ -7,7 +7,7 @@ export function CrmOrders() {
       <CrmPageHeader
         eyebrow="CRM"
         title="Orders"
-        subtitle="Approved quotations in execution — from assigned vendor to quality-verified completion."
+        subtitle="Approved quotations in execution   from assigned vendor to quality-verified completion."
       />
 
       <CrmTable headers={["Order", "Requirement", "Customer", "Vendor", "Service", "Value", "Status"]}>

@@ -32,7 +32,7 @@ export const trustHighlights: TrustHighlight[] = [
   },
   {
     title: "Verification by category",
-    body: "Verification requirements vary by service category — business identity, GST details, licences, certifications, capability and experience where applicable.",
+    body: "Verification requirements vary by service category   business identity, GST details, licences, certifications, capability and experience where applicable.",
     label: "How we verify partners",
   },
 ];

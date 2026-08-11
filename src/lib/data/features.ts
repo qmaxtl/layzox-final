@@ -117,7 +117,7 @@ export const platformFeatures: PlatformFeature[] = [
   { title: "Analytics", description: "Service spend and quality analytics that inform decisions.", icon: BarChart3 },
   { title: "Reports", description: "Downloadable reports for management and audit purposes.", icon: BarChart3 },
   { title: "CRM", description: "Complete customer and requirement relationship management.", icon: Database },
-  { title: "Notifications", description: "Status updates at every step — submitted to completed.", icon: Bell },
+  { title: "Notifications", description: "Status updates at every step   submitted to completed.", icon: Bell },
   { title: "GST Invoice", description: "Compliant GST invoices generated for every order.", icon: FileText },
   { title: "Payment Management", description: "Payments coordinated and released after quality verification.", icon: CreditCard },
   { title: "Support Center", description: "Dedicated Layzox support for every customer and vendor query.", icon: Headphones },

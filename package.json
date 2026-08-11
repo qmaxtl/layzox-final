@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Layzox — Managed B2B Services Procurement Platform. One requirement. We handle the rest.",
+  "description": "Layzox   Managed B2B Services Procurement Platform. One requirement. We handle the rest.",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

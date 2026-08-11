@@ -10,7 +10,7 @@ const inputClass =
   "w-full rounded-xl border border-ink-200 bg-white px-4 py-3 text-sm text-ink-900 placeholder:text-ink-400 transition-colors focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-500/20 dark:border-ink-700 dark:bg-ink-900 dark:text-white dark:placeholder:text-ink-500";
 
 const whatToExpect = [
-  { title: "A real specialist", body: "Talk to a Layzox procurement specialist — not a sales robot." },
+  { title: "A real specialist", body: "Talk to a Layzox procurement specialist   not a sales robot." },
   { title: "Scope guidance", body: "We help you define the scope, frequency and budget for your needs." },
   { title: "Clear next steps", body: "Leave the call with a clear plan and defined next steps." },
   { title: "Zero obligation", body: "Free consultation. No pressure, no lock-in." },

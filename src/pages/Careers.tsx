@@ -8,7 +8,7 @@ import { CtaBanner } from "@/components/home/CtaBanner";
 const perks = [
   { icon: Rocket, title: "Impact at scale", body: "Build the platform that makes B2B services procurement simple." },
   { icon: Handshake, title: "Ownership culture", body: "Small, senior teams where your work directly shapes the product." },
-  { icon: Sparkles, title: "Craft obsession", body: "We sweat the details — from UI polish to partner documentation." },
+  { icon: Sparkles, title: "Craft obsession", body: "We sweat the details   from UI polish to partner documentation." },
   { icon: HeartPulse, title: "Wellbeing", body: "Flexible hours, remote-friendly, health cover and real leave." },
 ];
 
@@ -32,7 +32,7 @@ export function Careers() {
             <span className="text-gradient">managed services</span>
           </>
         }
-        subtitle="We're a small, senior team on a clear mission — making business services procurement simple for every business. Join us."
+        subtitle="We're a small, senior team on a clear mission   making business services procurement simple for every business. Join us."
       />
 
       <Container className="pb-24">
@@ -105,7 +105,7 @@ export function Careers() {
             <span className="text-gradient-blue">worth working on</span>
           </>
         }
-        subtitle="The right people make all the difference — for businesses and for teams."
+        subtitle="The right people make all the difference   for businesses and for teams."
       />
     </>
   );

@@ -67,11 +67,11 @@ export const revenueByMonth = [
 ];
 
 export const recentActivity = [
-  { time: "2h ago", text: "Requirement #LZX-2481 approved — Facility Management", tone: "brand" },
-  { time: "5h ago", text: "Vendor assigned to #LZX-2478 — Pest Control, Ranchi", tone: "accent" },
-  { time: "Yesterday", text: "Invoice INV-1042 marked paid — ₹48,500", tone: "success" },
-  { time: "Yesterday", text: "New requirement #LZX-2485 — Housekeeping, 12 sites", tone: "brand" },
-  { time: "2 days ago", text: "Vendor onboarding complete — Sunrise Facility Services", tone: "accent" },
+  { time: "2h ago", text: "Requirement #LZX-2481 approved   Facility Management", tone: "brand" },
+  { time: "5h ago", text: "Vendor assigned to #LZX-2478   Pest Control, Ranchi", tone: "accent" },
+  { time: "Yesterday", text: "Invoice INV-1042 marked paid   ₹48,500", tone: "success" },
+  { time: "Yesterday", text: "New requirement #LZX-2485   Housekeeping, 12 sites", tone: "brand" },
+  { time: "2 days ago", text: "Vendor onboarding complete   Sunrise Facility Services", tone: "accent" },
 ];
 
 export const requirements: Requirement[] = [

@@ -29,7 +29,7 @@ export function PartnerSection() {
                   <span className="text-gradient-blue">Layzox partner network</span>
                 </>
               }
-              subtitle="Verification requirements vary by service category. Once verified, you don't compete for customer leads — Layzox assigns work based on fit, availability and performance."
+              subtitle="Verification requirements vary by service category. Once verified, you don't compete for customer leads   Layzox assigns work based on fit, availability and performance."
             />
             <Reveal delay={0.15}>
               <div className="mt-8 flex flex-col gap-4 rounded-2xl border border-white/10 bg-white/5 p-6 backdrop-blur-sm">

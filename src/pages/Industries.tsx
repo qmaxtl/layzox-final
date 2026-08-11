@@ -65,7 +65,7 @@ export function Industries() {
             >
               Talk to us
             </Link>{" "}
-            — Layzox customises programs for any vertical.
+              Layzox customises programs for any vertical.
           </p>
         </Reveal>
       </Container>

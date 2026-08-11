@@ -106,8 +106,8 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="Services — Layzox | Managed B2B Services Procurement"
-                  description="Managed business services across 8 categories — pest control, security, facility management, IT, logistics and more."
+                  title="Services   Layzox | Managed B2B Services Procurement"
+                  description="Managed business services across 8 categories   pest control, security, facility management, IT, logistics and more."
                 />
                 <Services />
               </>
@@ -118,7 +118,7 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="Industries — Layzox | Managed B2B Services"
+                  title="Industries   Layzox | Managed B2B Services"
                   description="Managed services for manufacturing, healthcare, education, hospitality, retail, construction, real estate and more."
                 />
                 <Industries />
@@ -130,7 +130,7 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="How It Works — Layzox | Managed B2B Services Procurement"
+                  title="How It Works   Layzox | Managed B2B Services Procurement"
                   description="Submit a requirement. Layzox coordinates sourcing, quotations and delivery through one accountable process."
                 />
                 <HowItWorksPage />
@@ -142,8 +142,8 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="Why Layzox — Managed B2B Services Procurement"
-                  description="Why businesses choose Layzox's managed procurement over vendor marketplaces — one accountable process, structured sourcing and transparent quotations."
+                  title="Why Layzox   Managed B2B Services Procurement"
+                  description="Why businesses choose Layzox's managed procurement over vendor marketplaces   one accountable process, structured sourcing and transparent quotations."
                 />
                 <WhyLayzoxPage />
               </>
@@ -154,8 +154,8 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="For Businesses — Layzox | Managed B2B Services"
-                  description="Submit one requirement and Layzox coordinates the rest — sourcing, quotations, delivery and GST invoicing."
+                  title="For Businesses   Layzox | Managed B2B Services"
+                  description="Submit one requirement and Layzox coordinates the rest   sourcing, quotations, delivery and GST invoicing."
                 />
                 <ForBusinesses />
               </>
@@ -166,7 +166,7 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="Become a Partner — Layzox | Partner Network"
+                  title="Become a Partner   Layzox | Partner Network"
                   description="Verification requirements vary by service category. Approved partners receive work internally, matched to their area and expertise."
                 />
                 <BecomeAPartner />
@@ -178,7 +178,7 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="About — Layzox | Managed B2B Services Procurement"
+                  title="About   Layzox | Managed B2B Services Procurement"
                   description="Layzox is a managed B2B services procurement company. One requirement, one accountable process."
                 />
                 <About />
@@ -190,7 +190,7 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="Resources — Layzox | Procurement & Operations Insights"
+                  title="Resources   Layzox | Procurement & Operations Insights"
                   description="Practical playbooks on procurement, operations and vendor management from the Layzox team."
                 />
                 <Resources />
@@ -201,7 +201,7 @@ export default function App() {
             path="/blog/:slug"
             element={
               <>
-                <Meta title="Insights — Layzox" />
+                <Meta title="Insights   Layzox" />
                 <BlogPost />
               </>
             }
@@ -211,7 +211,7 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="Contact — Layzox | Talk to a Procurement Specialist"
+                  title="Contact   Layzox | Talk to a Procurement Specialist"
                   description="Contact Layzox for managed B2B services procurement. Head office in Ranchi, Jharkhand."
                 />
                 <Contact />
@@ -223,7 +223,7 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="Post Requirement — Layzox | Managed B2B Services"
+                  title="Post Requirement   Layzox | Managed B2B Services"
                   description="Submit your business service requirement once. Layzox coordinates sourcing, quotations and delivery to completion."
                 />
                 <PostRequirement />
@@ -235,7 +235,7 @@ export default function App() {
             element={
               <>
                 <Meta
-                  title="Talk to Expert — Layzox | Free Procurement Consultation"
+                  title="Talk to Expert   Layzox | Free Procurement Consultation"
                   description="Book a free 20-minute consultation with a Layzox procurement specialist."
                 />
                 <TalkToExpert />
@@ -246,7 +246,7 @@ export default function App() {
             path="/careers"
             element={
               <>
-                <Meta title="Careers — Layzox" description="Join the Layzox team and help build a managed B2B services procurement platform." />
+                <Meta title="Careers   Layzox" description="Join the Layzox team and help build a managed B2B services procurement platform." />
                 <Careers />
               </>
             }
@@ -255,7 +255,7 @@ export default function App() {
             path="/legal/privacy-policy"
             element={
               <>
-                <Meta title="Privacy Policy — Layzox" />
+                <Meta title="Privacy Policy   Layzox" />
                 <PrivacyPolicy />
               </>
             }
@@ -264,7 +264,7 @@ export default function App() {
             path="/legal/terms"
             element={
               <>
-                <Meta title="Terms of Service — Layzox" />
+                <Meta title="Terms of Service   Layzox" />
                 <Terms />
               </>
             }

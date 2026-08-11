@@ -16,7 +16,7 @@ export const posts: BlogPost[] = [
     slug: "why-managed-procurement-beats-vendor-marketplaces",
     title: "Why Managed Procurement Beats Vendor Marketplaces",
     excerpt:
-      "Marketplaces give you choice — and a headache. Here's why businesses are moving to a fully managed model.",
+      "Marketplaces give you choice   and a headache. Here's why businesses are moving to a fully managed model.",
     category: "Procurement",
     date: "2026-07-18",
     readTime: "6 min read",
@@ -26,11 +26,11 @@ export const posts: BlogPost[] = [
     content: [
       {
         heading: "The choice paradox",
-        body: "More vendors should mean better outcomes. In practice, it means more time spent comparing, negotiating and chasing. Every additional option adds cognitive load and risk of a bad pick. For procurement teams running 20 services across multiple sites, the market is not an asset — it is the problem.",
+        body: "More vendors should mean better outcomes. In practice, it means more time spent comparing, negotiating and chasing. Every additional option adds cognitive load and risk of a bad pick. For procurement teams running 20 services across multiple sites, the market is not an asset   it is the problem.",
       },
       {
         heading: "What managed procurement changes",
-        body: "In a managed model you submit one requirement. A platform that is accountable for the outcome handles sourcing, selection, scheduling, quality and payment. You exchange infinite choice for accountable outcomes — a trade that operations leaders increasingly make willingly.",
+        body: "In a managed model you submit one requirement. A platform that is accountable for the outcome handles sourcing, selection, scheduling, quality and payment. You exchange infinite choice for accountable outcomes   a trade that operations leaders increasingly make willingly.",
       },
       {
         heading: "The accountability gap",
@@ -56,7 +56,7 @@ export const posts: BlogPost[] = [
       },
       {
         heading: "One platform, one invoice",
-        body: "With Layzox, every service order produces a compliant GST invoice automatically. Your finance team gets clean, consistent documentation for every transaction — from a single counterparty.",
+        body: "With Layzox, every service order produces a compliant GST invoice automatically. Your finance team gets clean, consistent documentation for every transaction   from a single counterparty.",
       },
       {
         heading: "Better for audits",
@@ -82,7 +82,7 @@ export const posts: BlogPost[] = [
       },
       {
         heading: "Verification is a process, not a check",
-        body: "Real vendor verification is continuous — document checks, police and reference checks, licence validation, insurance, training and a live quality score updated with every completed job.",
+        body: "Real vendor verification is continuous   document checks, police and reference checks, licence validation, insurance, training and a live quality score updated with every completed job.",
       },
       {
         heading: "Why it matters to you",
@@ -94,7 +94,7 @@ export const posts: BlogPost[] = [
     slug: "facility-management-checklist-for-growing-companies",
     title: "The Facility Management Checklist for Growing Companies",
     excerpt:
-      "Facilities quietly scale with your company — until something breaks. Use this checklist before your next growth phase.",
+      "Facilities quietly scale with your company   until something breaks. Use this checklist before your next growth phase.",
     category: "Operations",
     date: "2026-05-28",
     readTime: "5 min read",
@@ -104,7 +104,7 @@ export const posts: BlogPost[] = [
     content: [
       {
         heading: "Service register",
-        body: "Maintain a register of every service your facility consumes — frequency, scope, cost and the current responsible party. Most companies discover duplicate or missing services at this step.",
+        body: "Maintain a register of every service your facility consumes   frequency, scope, cost and the current responsible party. Most companies discover duplicate or missing services at this step.",
       },
       {
         heading: "Escalation and response",
@@ -120,7 +120,7 @@ export const posts: BlogPost[] = [
     slug: "security-guard-outsourcing-guide",
     title: "Security Guard Outsourcing: A Complete Guide",
     excerpt:
-      "From PSARA compliance to supervision ratios — everything a business should demand from its security partner.",
+      "From PSARA compliance to supervision ratios   everything a business should demand from its security partner.",
     category: "Operations",
     date: "2026-05-05",
     readTime: "8 min read",
@@ -146,7 +146,7 @@ export const posts: BlogPost[] = [
     slug: "solar-installation-roi-for-factories",
     title: "Solar Installation ROI: The Numbers for Factories",
     excerpt:
-      "Rooftop solar has crossed the point where it is not just green — it is financially obvious. Here's how to model the return.",
+      "Rooftop solar has crossed the point where it is not just green   it is financially obvious. Here's how to model the return.",
     category: "Business Insights",
     date: "2026-04-20",
     readTime: "6 min read",
@@ -186,7 +186,7 @@ export const posts: BlogPost[] = [
       },
       {
         heading: "The components",
-        body: "A robust score weighs on-time delivery, defect rate, safety compliance, communication and customer verification outcomes — updated after every single job.",
+        body: "A robust score weighs on-time delivery, defect rate, safety compliance, communication and customer verification outcomes   updated after every single job.",
       },
       {
         heading: "Why it matters for your services",

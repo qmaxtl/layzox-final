@@ -10,7 +10,7 @@ import { WhyDifferent } from "@/components/home/WhyDifferent";
 const pillars = [
   {
     title: "Mission",
-    body: "Make managed B2B services procurement simple — where businesses never have to worry about sourcing, managing or chasing providers.",
+    body: "Make managed B2B services procurement simple   where businesses never have to worry about sourcing, managing or chasing providers.",
   },
   {
     title: "Model",
@@ -33,7 +33,7 @@ export function WhyLayzoxPage() {
             <span className="text-gradient">every business service</span>
           </>
         }
-        subtitle="Layzox was built on a simple belief: businesses shouldn't have to be procurement experts. Our managed model coordinates sourcing, quotations, delivery and documentation — permanently."
+        subtitle="Layzox was built on a simple belief: businesses shouldn't have to be procurement experts. Our managed model coordinates sourcing, quotations, delivery and documentation   permanently."
       />
 
       <Container className="pb-10">

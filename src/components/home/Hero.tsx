@@ -46,8 +46,8 @@ export function Hero() {
             variants={item}
             className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-ink-500 dark:text-ink-400"
           >
-            Layzox is a managed B2B services procurement platform. Tell us what your business needs —
-            facility management, pest control, housekeeping, security and more — and we coordinate
+            Layzox is a managed B2B services procurement platform. Tell us what your business needs  
+            facility management, pest control, housekeeping, security and more   and we coordinate
             sourcing, quotations, delivery and documentation from start to finish.
           </motion.p>
 

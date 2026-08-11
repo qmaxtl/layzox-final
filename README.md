@@ -1,4 +1,4 @@
-# Layzox — Managed B2B Services Procurement Platform
+# Layzox   Managed B2B Services Procurement Platform
 
 A managed B2B services procurement platform. One requirement. We handle the rest. Businesses submit a single requirement; Layzox coordinates sourcing, quotations and delivery through one accountable process.
 
@@ -6,12 +6,12 @@ A premium, enterprise-grade, production-ready website.
 
 ## Tech Stack
 
-- **Vite 8** + **React 19** + **TypeScript** — fast, typed, production build
-- **Tailwind CSS v4** — CSS-first design system with custom tokens
-- **Framer Motion 12** — scroll reveals, staggered entrances, layout animations, counters, tilt & magnetic effects
-- **React Router 7** — multi-page architecture with route-level code splitting
-- **lucide-react** — consistent iconography
-- **@fontsource** — self-hosted Inter, Space Grotesk & IBM Plex Mono (no external font CDN)
+- **Vite 8** + **React 19** + **TypeScript**   fast, typed, production build
+- **Tailwind CSS v4**   CSS-first design system with custom tokens
+- **Framer Motion 12**   scroll reveals, staggered entrances, layout animations, counters, tilt & magnetic effects
+- **React Router 7**   multi-page architecture with route-level code splitting
+- **lucide-react**   consistent iconography
+- **@fontsource**   self-hosted Inter, Space Grotesk & IBM Plex Mono (no external font CDN)
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ src/
 
 ## Adding a New Service
 
-Services are data-driven. Add an entry to `src/lib/data/services.ts` — the card, catalog page, marquee, form dropdowns and sitemap feed update automatically:
+Services are data-driven. Add an entry to `src/lib/data/services.ts`   the card, catalog page, marquee, form dropdowns and sitemap feed update automatically:
 
 ```ts
 {

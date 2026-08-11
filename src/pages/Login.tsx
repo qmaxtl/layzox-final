@@ -165,7 +165,7 @@ export function Login() {
             <div className="mt-6 flex items-center gap-2 rounded-xl border border-white/10 bg-white/[0.03] px-3.5 py-2.5">
               <ShieldCheck className="h-4 w-4 shrink-0 text-emerald-400" />
               <p className="text-xs text-slate-400">
-                Demo access — any email works. Pre-filled credentials are ready.
+                Demo access   any email works. Pre-filled credentials are ready.
               </p>
             </div>
           </div>
