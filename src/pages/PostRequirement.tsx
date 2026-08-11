@@ -133,7 +133,7 @@ export function PostRequirement() {
                         <input required type="email" className={inputClass} placeholder="you@company.com" autoComplete="email" />
                       </Field>
                       <Field label="Phone" required>
-                        <input required type="tel" className={inputClass} placeholder="+91 98765 43210" autoComplete="tel" />
+                        <input required type="tel" className={inputClass} placeholder="9810958069" autoComplete="tel" />
                       </Field>
                       <Field label="Service category" className="sm:col-span-2" required>
                         <select required className={inputClass} defaultValue="">

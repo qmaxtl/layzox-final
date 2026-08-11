@@ -4,7 +4,7 @@ export const site = {
   url: "https://layzox.com",
   email: "hello@layzox.com",
   salesEmail: "sales@layzox.com",
-  phone: "+91 98765 43210",
+  phone: "9810958069",
   supportPhone: "+91 98765 43211",
   address: "2nd Floor, Triangle Tower, Main Road, Ranchi, Jharkhand 834001",
   hours: "Mon–Sat, 9:00 AM – 8:00 PM IST",

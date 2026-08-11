@@ -144,7 +144,7 @@ export function TalkToExpert() {
                         <input required type="email" className={inputClass} placeholder="you@company.com" />
                       </Field>
                       <Field label="Phone" required>
-                        <input required type="tel" className={inputClass} placeholder="+91 98765 43210" />
+                        <input required type="tel" className={inputClass} placeholder="9810958069" />
                       </Field>
                       <Field label="Preferred day" required className="sm:col-span-2">
                         <div className="grid grid-cols-3 gap-2">
