@@ -1,5 +1,5 @@
-import { motion } from "framer-motion";
-import { ArrowRight, ArrowUpRight, Eye, EyeOff, Lock, Mail, ShieldCheck } from "lucide-react";
+﻿import { motion } from "framer-motion";
+import { ArrowRight, ArrowUpRight, Eye, EyeOff, Lock, Mail } from "lucide-react";
 import { useState, type FormEvent } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Logo } from "@/components/ui/Logo";
@@ -12,8 +12,8 @@ export function Login() {
   const location = useLocation();
   const from = (location.state as { from?: { pathname?: string } } | null)?.from?.pathname ?? "/crm";
 
-  const [email, setEmail] = useState("admin@layzox.com");
-  const [password, setPassword] = useState("layzox");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
@@ -130,7 +130,7 @@ export function Login() {
                     type={showPassword ? "text" : "password"}
                     value={password}
                     onChange={(e) => setPassword(e.target.value)}
-                    placeholder="••••••••"
+                    placeholder="â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢"
                     className="w-full bg-transparent py-3 text-sm text-white outline-none placeholder:text-slate-500"
                   />
                   <button
@@ -155,19 +155,14 @@ export function Login() {
                 disabled={loading}
                 className="group mt-2 inline-flex cursor-pointer items-center justify-center gap-2.5 rounded-xl bg-gradient-to-r from-brand-600 via-brand-500 to-accent-500 px-6 py-3.5 text-sm font-semibold text-white shadow-[0_10px_36px_-10px_rgb(6_182_212/0.7)] transition-all hover:-translate-y-0.5 hover:shadow-[0_14px_48px_-10px_rgb(6_182_212/0.85)] disabled:cursor-not-allowed disabled:opacity-60"
               >
-                {loading ? "Signing in…" : "Sign in"}
+                {loading ? "Signing inâ€¦" : "Sign in"}
                 {!loading && (
                   <ArrowRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
                 )}
               </button>
             </form>
 
-            <div className="mt-6 flex items-center gap-2 rounded-xl border border-white/10 bg-white/[0.03] px-3.5 py-2.5">
-              <ShieldCheck className="h-4 w-4 shrink-0 text-emerald-400" />
-              <p className="text-xs text-slate-400">
-                Demo access   any email works. Pre-filled credentials are ready.
-              </p>
-            </div>
+
           </div>
         </div>
       </motion.div>
@@ -179,7 +174,7 @@ export function Login() {
         custom={0.2}
         className="relative mt-8 font-mono text-[0.6rem] uppercase tracking-[0.2em] text-slate-600"
       >
-        Layzox · Operations Console
+        Layzox Â· Operations Console
       </motion.p>
     </div>
   );

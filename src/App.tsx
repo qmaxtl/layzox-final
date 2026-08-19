@@ -1,4 +1,4 @@
-import { lazy, Suspense, type ReactNode } from "react";
+﻿import { lazy, Suspense, type ReactNode } from "react";
 import { Navigate, Route, Routes, useLocation } from "react-router-dom";
 import { Layout } from "@/components/layout/Layout";
 import { Home } from "@/pages/Home";
@@ -60,9 +60,21 @@ const CrmInvoices = lazy(() =>
 );
 
 function Protected({ children }: { children: ReactNode }) {
-  const { user } = useAuth();
+  const { user, loading } = useAuth();
   const location = useLocation();
-  if (!user) return <Navigate to="/login" state={{ from: location }} replace />;
+
+  if (loading) {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-white dark:bg-ink-950">
+        <span className="h-2 w-2 animate-pulse rounded-full bg-brand-600" />
+      </div>
+    );
+  }
+
+  if (!user) {
+    return <Navigate to="/login" state={{ from: location }} replace />;
+  }
+
   return <>{children}</>;
 }
 
