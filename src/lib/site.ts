@@ -2,7 +2,7 @@ export const site = {
   name: "Layzox",
   tagline: "Managed B2B Services Procurement",
   url: "https://layzox.com",
-  email: "hello@layzox.com",
+  email: "contact@layzox.com",
   salesEmail: "sales@layzox.com",
   phone: "9810958069",
   supportPhone: "+91 98765 43211",

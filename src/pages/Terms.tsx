@@ -49,7 +49,7 @@ export function Terms() {
         },
         {
           heading: "Contact",
-          body: "For any questions regarding these Terms of Service, contact us at hello@layzox.com.",
+          body: "For any questions regarding these Terms of Service, contact us at contact@layzox.com.",
         },
       ]}
     />

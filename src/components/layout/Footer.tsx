@@ -127,7 +127,7 @@ export function Footer() {
 
         <div className="flex flex-col items-start justify-between gap-4 border-t border-slate-800/70 py-8 sm:flex-row sm:items-center">
           <p className="text-xs text-slate-500">
-            © {new Date().getFullYear()} Layzox Technologies Pvt. Ltd. All rights reserved.
+            © {new Date().getFullYear()} Layzox India Pvt. Ltd. All rights reserved.
           </p>
           <div className="flex flex-wrap items-center gap-x-6 gap-y-2">
             {nav.footer.legal.map((l) => (

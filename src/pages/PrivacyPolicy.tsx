@@ -9,7 +9,7 @@ export function PrivacyPolicy() {
       sections={[
         {
           heading: "Introduction",
-          body: "Layzox Technologies Pvt. Ltd. ('Layzox', 'we', 'us') respects your privacy and is committed to protecting the personal information you share with us. This policy explains what we collect, why we collect it, and how we use and protect it when you use our website and services.",
+          body: "Layzox India Pvt. Ltd. ('Layzox', 'we', 'us') respects your privacy and is committed to protecting the personal information you share with us. This policy explains what we collect, why we collect it, and how we use and protect it when you use our website and services.",
         },
         {
           heading: "Information we collect",
@@ -33,7 +33,7 @@ export function PrivacyPolicy() {
         },
         {
           heading: "Your rights",
-          body: "You may request access to, correction of, or deletion of your personal information, subject to legal and contractual restrictions. To exercise these rights, contact us at hello@layzox.com. We will respond within a reasonable timeframe.",
+          body: "You may request access to, correction of, or deletion of your personal information, subject to legal and contractual restrictions. To exercise these rights, contact us at contact@layzox.com. We will respond within a reasonable timeframe.",
         },
         {
           heading: "Changes to this policy",
@@ -41,7 +41,7 @@ export function PrivacyPolicy() {
         },
         {
           heading: "Contact us",
-          body: "For any questions about this Privacy Policy or our data practices, contact us at hello@layzox.com or write to Layzox Technologies Pvt. Ltd., Ranchi, Jharkhand, India.",
+          body: "For any questions about this Privacy Policy or our data practices, contact us at contact@layzox.com or write to Layzox India Pvt. Ltd., Ranchi, Jharkhand, India.",
         },
       ]}
     />
